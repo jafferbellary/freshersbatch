@@ -1,4 +1,8 @@
-This is readme file changes wrt css-assignment branch again changes wrt master
+<<<<<<< HEAD
+This is readme file minor changes wrt js-assignment branch
+=======
+This is readme file minor changes wrt js-assignment branch
+>>>>>>> js-assignments
 
 This is present under Assignmnets folder
 
